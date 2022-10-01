@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "com.elzach.extensions": "0.0.20",
-    "com.needle.engine-exporter": "2.24.1-pre",
+    "com.elzach.extensions": "0.0.22",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.cinemachine": "2.9.0-pre.6",
     "com.unity.collab-proxy": "1.15.18",
@@ -53,14 +52,6 @@
       "url": "https://package.openupm.com",
       "scopes": [
         "com.elzach.extensions"
-      ]
-    },
-    {
-      "name": "needle",
-      "url": "https://packages.needle.tools",
-      "scopes": [
-        "com.needle",
-        "org.khronos"
       ]
     }
   ]
