@@ -1,0 +1,132 @@
+# Blender 3.3.0 MTL File: 'StollenKomplett.blend'
+# www.blender.org
+
+newmtl Balken.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/3DHackathon/DM_BergwerkDiorama_Ausschnitt/Deutsches-Museum_Bergwerk_Diorama_Hr_u2_v1.jpg
+
+newmtl Boden.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/3DHackathon/DM_BergwerkDiorama_Ausschnitt/Deutsches-Museum_Bergwerk_Diorama_Hr_u2_v1.jpg
+
+newmtl Kabel.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.211098 0.211098 0.211098
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/3DHackathon/DM_BergwerkDiorama_Ausschnitt/Deutsches-Museum_Bergwerk_Diorama_Hr_u2_v2.jpg
+
+newmtl MetalBogen.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/3DHackathon/DM_BergwerkDiorama_Ausschnitt/Deutsches-Museum_Bergwerk_Diorama_Hr_u2_v1.jpg
+
+newmtl MetallStrebe.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/3DHackathon/DM_BergwerkDiorama_Ausschnitt/Deutsches-Museum_Bergwerk_Diorama_Hr_u2_v1.jpg
+
+newmtl SchieneLaufWeg.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/3DHackathon/DM_BergwerkDiorama_Ausschnitt/Deutsches-Museum_Bergwerk_Diorama_Hr_u1_v1.jpg
+
+newmtl Schienen.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/3DHackathon/DM_BergwerkDiorama_Ausschnitt/Deutsches-Museum_Bergwerk_Diorama_Hr_u1_v1.jpg
+
+newmtl Stempel.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/3DHackathon/DM_BergwerkDiorama_Ausschnitt/Deutsches-Museum_Bergwerk_Diorama_Hr_u2_v1.jpg
+
+newmtl Stollen1Texture.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/3DHackathon/DM_BergwerkDiorama_Ausschnitt/Deutsches-Museum_Bergwerk_Diorama_Hr_u3_v1.jpg
+
+newmtl Stollen2Texture.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/3DHackathon/DM_BergwerkDiorama_Ausschnitt/Deutsches-Museum_Bergwerk_Diorama_Hr_u3_v1.jpg
+
+newmtl Stollen3Texture.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/3DHackathon/DM_BergwerkDiorama_Ausschnitt/Deutsches-Museum_Bergwerk_Diorama_Hr_u2_v2.jpg
+
+newmtl Stollen4Texture.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/3DHackathon/DM_BergwerkDiorama_Ausschnitt/Deutsches-Museum_Bergwerk_Diorama_Hr_u1_v1.jpg
