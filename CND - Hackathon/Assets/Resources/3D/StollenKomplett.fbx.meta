@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2251b191a86b21948a9ca1b63688bf0a
+guid: a364f887000bced4988e9bb41c45efee
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,8 +7,68 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: defaultMat
-    second: {fileID: 2100000, guid: 574995b9f42e8fb44a048ad2255c63d3, type: 2}
+      name: Balken.001
+    second: {fileID: 2100000, guid: 4e8c714b641bc3f42840fb07a59906c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boden.001
+    second: {fileID: 2100000, guid: 29c99282692905944bf098c9fdbc7278, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kabel.001
+    second: {fileID: 2100000, guid: 8d393dfedfde80c4c81b0ad1afe2e104, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: c7e41ca9bff3a114e8eaf065b3430671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalBogen.001
+    second: {fileID: 2100000, guid: ce45bfb3366a08f43866a8a999e01cf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetallStrebe.001
+    second: {fileID: 2100000, guid: b2466605cdff87e41b8902aadbd2e9f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SchieneLaufWeg.001
+    second: {fileID: 2100000, guid: 6f4076b8054a127419842ab3033d9736, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schienen.001
+    second: {fileID: 2100000, guid: 32285c0d837257d4fac697af65dc3763, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stempel.001
+    second: {fileID: 2100000, guid: 26ba0c8647ae87f4b961a2b7c843aea0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stollen1Texture.001
+    second: {fileID: 2100000, guid: 9296d24010ade3e419146b2cb2ad1490, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stollen2Texture.001
+    second: {fileID: 2100000, guid: 0e99b93991dc1b24cbf870f7e3edada3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stollen3Texture.001
+    second: {fileID: 2100000, guid: 6fa3d3a3a2fd40146a37c29796676086, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stollen4Texture.001
+    second: {fileID: 2100000, guid: 491f4e1b8eb0e8b4b828417e16bfd34e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -74,8 +134,8 @@ ModelImporter:
     useFileScale: 1
     strictVertexDataChecks: 0
   tangentSpace:
-    normalSmoothAngle: 141
-    normalImportMode: 1
+    normalSmoothAngle: 60
+    normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
