@@ -1,0 +1,22 @@
+# Blender 3.3.1 MTL File: 'BlitzerGrubenlampe.blend'
+# www.blender.org
+
+newmtl "material_1"
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl material_0
+Ns 722.500000
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/030013982001-Blitzer Grubenlampe_1.png
