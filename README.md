@@ -1,12 +1,32 @@
 # mining-adventure
-Mining Adventure. Explore the underground tunnel with your mining lamp. Discover mining tools and learn about them. Maybe there are some precious discoveries.
+Mining experience. Explore the underground tunnel with your mining lamp. Discover mining tools and learn about them. Maybe there are some precious discoveries.
 
-- Windows Application (preferred), maybe VR
-- Unity
+- Windows Application 
 
-Possible Datasets:
+
+Team:
+
+- Louise Tharandt
+- Sabrina Mögelin
+
+Tools:
+
+Unity / Blender / Krita / Audacity 
+
+Datasets:
 
 - GRUBENLAMPEN IM WANDEL DER TECHNIK
-- UNTERTAGE IN SACHSEN
-- DECKENMALEREIEN DER ALTAMIRA-HÖHLE
-- KLASSIKSTIFTUNG WEIMAR Digitale Sammlungen der Museen - Objekte aus Goethes geowissenschaftlicher Sammlung (Mineralien)
+- DECKENMALEREIEN DER ALTAMIRA-HÖHLE Deutsches Museum
+- 3D OBJEKTE aus dem Germanisches Nationalmuseum
+
+
+
+DEMO:
+
+https://taliavali.itch.io/untertage-eine-bergbau-erfahrung
+
+
+
+
+
+
