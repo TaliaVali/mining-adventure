@@ -60,6 +60,15 @@ public class LampSelection : MonoBehaviour
             lamp5.SetActive(true);
         }
 
+        if (Input.GetKeyDown("0"))
+        {
+            lamp1.SetActive(false);
+            lamp2.SetActive(false);
+            lamp3.SetActive(false);
+            lamp4.SetActive(false);
+            lamp5.SetActive(false);
+        }
+
     }
 
 
