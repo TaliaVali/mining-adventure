@@ -302,9 +302,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Pistol-grip Kerzenhalter\r\n\r\nDurchgehend aus einem Vierkantstab geschmiedeter
-    Kerzenhalter mit tropfenf\xF6rmigem Tragauge und Fingerhut f\xF6rmiger Klemmhalterung
-    f\xFCr die Kerze. Die Form des candlesticks \xE4hnelt einer Pistole.\r\n"
+  m_text: "Pistol-Grip Kerzenhalter\r\n\r\nDurchgehend aus einem Vierkantstab geschmiedeter
+    Kerzenhalter. Die Kerze steht in einer fingerhut-\xE4hnlichen Klemmhalterung.
+    Die Form des candlesticks \xE4hnelt einer Pistole.\r\n\nInv.-Nr.: 030005773001\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6483464e8a56004c8a3ca3101e5fe8f, type: 2}
   m_sharedMaterial: {fileID: -2248063425321618982, guid: c6483464e8a56004c8a3ca3101e5fe8f,
@@ -521,7 +521,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3daf09b26aa24d2489810855072ab6a1,
         type: 3}
       propertyPath: m_Name
-      value: PistolGripKerzenhalter
+      value: PistolGripKerzenhalter Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

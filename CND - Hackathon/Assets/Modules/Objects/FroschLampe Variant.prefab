@@ -378,9 +378,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Geschlossene Froschlampe f\xFCr \xD6lbrand\r\n\r\nAus mehreren Teilen
-    hartgel\xF6teter Lampentopf, um Topf laufender vernieteter Blechstreifen, an
-    den der Tragb\xFCgel angenietet wurde.\n"
+  m_text: "Geschlossene Froschlampe \n\r\nEin hartgel\xF6teter Lampen-topf, essen
+    Form an einen Frosch erinnert. Diese Lampe hat einen aufgel\xF6teter Schieberverschlu\xDF.\n\n\nInv.-Nr.:
+    030002681008"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6483464e8a56004c8a3ca3101e5fe8f, type: 2}
   m_sharedMaterial: {fileID: -2248063425321618982, guid: c6483464e8a56004c8a3ca3101e5fe8f,

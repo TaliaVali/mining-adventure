@@ -378,12 +378,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Photometer
-
-
-    It is a device for measuring the luminous intensity of
-    head lamps. The measuring instrument is in the silver, cylindrical attachment,
-    the lamp was held in front of the viewing window for testing.'
+  m_text: "Fotometer\n\nEs handelt sich um ein Ger\xE4t zum Messen der Lichtst\xE4rke
+    von Kopflampen. Die Lichtst\xE4rke wird angezeigt in \"Mean spherical candle
+    power\". \n\n\nInv.-Nr.: 030005650001"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6483464e8a56004c8a3ca3101e5fe8f, type: 2}
   m_sharedMaterial: {fileID: -2248063425321618982, guid: c6483464e8a56004c8a3ca3101e5fe8f,
@@ -519,7 +516,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b6b90ac61d2e76c44813f01a31463da0,
         type: 3}
       propertyPath: m_Name
-      value: fotometer_klein
+      value: fotometer_klein Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

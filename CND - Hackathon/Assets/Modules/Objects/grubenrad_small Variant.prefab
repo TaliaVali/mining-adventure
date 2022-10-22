@@ -378,12 +378,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mine bicycle
-
-
-    Thia was produced around the 2nd half of the 20th century.
-    It is a two-seater specimen. Mine bicycles facilitated the movement of miners
-    and transport on the tracks over often long distances.'
+  m_text: "Grubenfahrrad\n\nGrubenfahrr\xE4der er-leichterten die Fort-bewegung der
+    Bergleute und den Transport auf den Gleisen \xFCber oft weite Strecken. Dieses
+    Grubenfahrrad hat zwei Sitze.\n\nInv.-Nr.: 037000621001"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6483464e8a56004c8a3ca3101e5fe8f, type: 2}
   m_sharedMaterial: {fileID: -2248063425321618982, guid: c6483464e8a56004c8a3ca3101e5fe8f,

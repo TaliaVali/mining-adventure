@@ -302,12 +302,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'St. Barbara
-
-
-    Patron saint of miners. The wooden sculpture was made
-    around 1500. Typical is the tower with the three windows (symbolic of the Trinity),
-    which she holds in her hand.'
+  m_text: "Kerzenhalter\n\nDieser besteht aus einem h\xF6lzernen, gedrechselten Fu\xDF,
+    in den f\xFCnf gewendelte d\xFCnne Eisenstangen eingelassen sind.  Die Stangen-konstruktion
+    dient als F\xFChrung f\xFCr h\xF6hen verstellbare Kerze.\n\nInv.-Nr.: 030003697000"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6483464e8a56004c8a3ca3101e5fe8f, type: 2}
   m_sharedMaterial: {fileID: -2248063425321618982, guid: c6483464e8a56004c8a3ca3101e5fe8f,
@@ -524,7 +521,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5e870003967a13343ade62f2867e9f17,
         type: 3}
       propertyPath: m_Name
-      value: kerzenhalter
+      value: kerzenhalter Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

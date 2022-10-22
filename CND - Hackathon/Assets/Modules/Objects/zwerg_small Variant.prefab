@@ -302,9 +302,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Dwarf \n\nThe dwarf is a mythical figure found quite frequently in mining
-    contexts.This silver figure was made in the second half of the 19th century.
-    He holds a lantern and a hammer in his hand."
+  m_text: "Bergzwerg\n\nDer Zwerg ist eine im Bergbaukontext recht h\xE4ufig zu findende
+    mythische Figur. Diese silberne Figur ist mit Schmucksteinen und Perlmutt besetzt.\n\nInv.-Nr.:
+    030006413001"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6483464e8a56004c8a3ca3101e5fe8f, type: 2}
   m_sharedMaterial: {fileID: -2248063425321618982, guid: c6483464e8a56004c8a3ca3101e5fe8f,

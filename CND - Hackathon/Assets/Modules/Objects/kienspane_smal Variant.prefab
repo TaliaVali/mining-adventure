@@ -378,10 +378,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Fatwood\n\nFatwood are flat pieces of wood with a high resin content,
-    here enclosed in salt stone They were used as a source of light in early mining.
-    The earliest evidence of this miner\u2019s lamp comes from the salt mines in
-    Hallstatt."
+  m_text: "Kienspan\n\nKiensp\xE4nen sind harz-haltige Holzstreifen, die man im fr\xFChen
+    Bergbau als Lichtquelle nutzte. Hier sind welche in Salz-stein eingeschlossen.
+    Die fr\xFChsten Belege dieser Ge-leuchte stammen aus dem Salzbergbau in Hallstatt.\n\nInv.-Nr.:
+    030007983001"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6483464e8a56004c8a3ca3101e5fe8f, type: 2}
   m_sharedMaterial: {fileID: -2248063425321618982, guid: c6483464e8a56004c8a3ca3101e5fe8f,
@@ -522,7 +522,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: fe232fa818465834d93e72aecb7b6379,
         type: 3}
       propertyPath: m_Name
-      value: kienspane_smal
+      value: kienspane_smal Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

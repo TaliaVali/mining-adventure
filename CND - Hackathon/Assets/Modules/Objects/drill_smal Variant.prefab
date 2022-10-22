@@ -378,12 +378,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Hammer drill
+  m_text: 'Bohrhammer
 
 
-    Cutaway model of a hammer drill. Such machines were
-    used for manual mining underground. It was opened at Deutsches Bergbau-Museum
-    Bochum to allow a look inside and the otherwise hidden mechanics. '
+    Schnittmodell eines Bohrhammers. Er ist teils verchromt,
+    teils hellblau. Genutzt wurden solche Maschinen zum manuellen Abbau unter Tage.
+
+
+    Inv.-Nr.:
+    030007654001'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6483464e8a56004c8a3ca3101e5fe8f, type: 2}
   m_sharedMaterial: {fileID: -2248063425321618982, guid: c6483464e8a56004c8a3ca3101e5fe8f,

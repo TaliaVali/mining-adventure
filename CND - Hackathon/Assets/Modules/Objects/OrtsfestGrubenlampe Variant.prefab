@@ -66,10 +66,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Ortsfeste Grubenlampe\r\n\r\nStreb- und Strecken- leuchte mit Leuchtstoff-lampe
-    f\xFCr den Anschluss an ein Strom-netz. Im oberen Teil nach vorne abgewinkeltes
-    Metall-geh\xE4use. Im unteren Teil rechts und links je eine gestuzte Stelle f\xFCr
-    die Kabeldurchf\xFChrung."
+  m_text: "Ortsfeste Grubenlampe\r\n\r\nStreckenleuchte mit Leuchtstofflampe f\xFCr
+    den Anschluss an ein Stromnetz. Die Lampe besteht aus einem Metallgeh\xE4use.
+    Im unteren Teil befinden sich Stellen f\xFCr die Kabeldurchf\xFChrung.\n\nInv.-Nr.:
+    030000965000"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6483464e8a56004c8a3ca3101e5fe8f, type: 2}
   m_sharedMaterial: {fileID: -2248063425321618982, guid: c6483464e8a56004c8a3ca3101e5fe8f,
@@ -522,7 +522,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 73cc6e09fdbf541449a4eaf2f219100e,
         type: 3}
       propertyPath: m_Name
-      value: OrtsfestGrubenlampe
+      value: OrtsfestGrubenlampe Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

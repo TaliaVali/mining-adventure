@@ -364,12 +364,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Shaft bell
-
-
-    This shaft bell was used in the second half of the 20th
-    century. Fixed numbers of strokes directly at the shaft gave the signal for hoisting
-    or driving. E.g.1 stroke - stop, 2 strockes - up, 3 strockes - hang.'
+  m_text: "Schachtglocke\n\nDiese Schachtglocke wurde in der 2. H\xE4lfte des 20.
+    Jahrhunderts genutzt. Festgelegte Schlagzahlen gaben ein Signal an: \nein Schlag
+    - Stoppen \nzwei Schl\xE4ge - Aufw\xE4rts \ndrei Schl\xE4ge - H\xE4ngen \n\nInv.-Nr.:
+    037000708001"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c6483464e8a56004c8a3ca3101e5fe8f, type: 2}
   m_sharedMaterial: {fileID: -2248063425321618982, guid: c6483464e8a56004c8a3ca3101e5fe8f,
