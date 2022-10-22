@@ -1,4 +1,4 @@
-# mining-adventure
+# Untertage - Eine Bergbau Erfahrung
 Mining experience. Explore the underground tunnel with your mining lamp. Discover mining tools and learn about them. Maybe there are some precious discoveries.
 
 - Windows Application 
