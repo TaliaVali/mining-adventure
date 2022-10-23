@@ -2022,7 +2022,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -24.3, y: 56.2}
+  m_AnchoredPosition: {x: -20.8, y: 54.7}
   m_SizeDelta: {x: 486.28, y: 17.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &160623991
@@ -2178,7 +2178,7 @@ Transform:
   - {fileID: 1508871423}
   - {fileID: 558359164}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &185686785
 GameObject:
@@ -2206,7 +2206,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 185686785}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.2}
+  m_LocalPosition: {x: 0, y: 0, z: 6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3146,52 +3146,52 @@ PrefabInstance:
     - target: {fileID: 8650570925751458623, guid: b3a062e1a0e9c88499b0ed86f5063ac3,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.91
+      value: -0.76
       objectReference: {fileID: 0}
     - target: {fileID: 8650570925751458623, guid: b3a062e1a0e9c88499b0ed86f5063ac3,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7
+      value: 8.47
       objectReference: {fileID: 0}
     - target: {fileID: 8650570925751458623, guid: b3a062e1a0e9c88499b0ed86f5063ac3,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.89
+      value: -2.7
       objectReference: {fileID: 0}
     - target: {fileID: 8650570925751458623, guid: b3a062e1a0e9c88499b0ed86f5063ac3,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.93198156
+      value: 0.924651
       objectReference: {fileID: 0}
     - target: {fileID: 8650570925751458623, guid: b3a062e1a0e9c88499b0ed86f5063ac3,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.2876654
+      value: 0.28962502
       objectReference: {fileID: 0}
     - target: {fileID: 8650570925751458623, guid: b3a062e1a0e9c88499b0ed86f5063ac3,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.21077609
+      value: -0.240908
       objectReference: {fileID: 0}
     - target: {fileID: 8650570925751458623, guid: b3a062e1a0e9c88499b0ed86f5063ac3,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.065058224
+      value: 0.055689164
       objectReference: {fileID: 0}
     - target: {fileID: 8650570925751458623, guid: b3a062e1a0e9c88499b0ed86f5063ac3,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 34.307
+      value: 34.224
       objectReference: {fileID: 0}
     - target: {fileID: 8650570925751458623, guid: b3a062e1a0e9c88499b0ed86f5063ac3,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -25.487
+      value: -29.987
       objectReference: {fileID: 0}
     - target: {fileID: 8650570925751458623, guid: b3a062e1a0e9c88499b0ed86f5063ac3,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: -2.534
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4086,7 +4086,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0.1
-      value: 0.1
+      value: 0.2
       inSlope: -0.07565193
       outSlope: -0.07565193
       tangentMode: 0
@@ -4405,8 +4405,9 @@ PrefabInstance:
     - target: {fileID: 2402727813475579677, guid: c692e90187def494e9118e084eaf282a,
         type: 3}
       propertyPath: m_text
-      value: "Team: \n\nLouise Tharandt - 3D/Sound/Text\n\nSabrina M\xF6gelin - Programmierung/
-        \t\t\t   Design/UI/3D/ \n\t\t\t   Sound/Text\n\n\n\n"
+      value: "    \t      24.09.-24.10.2022\n\n\n\n\n\nTeam: \n\nLouise Tharandt
+        - 3D/Sound/Text\n\nSabrina M\xF6gelin - Programmierung/ \t\t\t   Design/UI/3D/
+        \n\t\t\t   Sound/Text\n\n\n\n"
       objectReference: {fileID: 0}
     - target: {fileID: 2402727813475579677, guid: c692e90187def494e9118e084eaf282a,
         type: 3}
@@ -4523,7 +4524,7 @@ PrefabInstance:
     - target: {fileID: 6037777534136783120, guid: c692e90187def494e9118e084eaf282a,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -52
+      value: -13.9
       objectReference: {fileID: 0}
     - target: {fileID: 6486064194205301727, guid: c692e90187def494e9118e084eaf282a,
         type: 3}
@@ -5533,6 +5534,13 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: 1.128085
       objectReference: {fileID: 0}
+    - target: {fileID: 4676124714236658377, guid: 5399bf4cc32aeae429408b0b37570bd1,
+        type: 3}
+      propertyPath: m_text
+      value: "Ortsfeste Grubenlampe\r\n\r\nStreckenleuchte mit Leuchtstofflampe f\xFCr
+        den Anschluss an ein Stromnetz. Die Lampe besteht aus einem Metallgeh\xE4use.
+        Im unteren Teil befinden sich Stellen f\xFCr die Kabeldurchf\xFChrung.\n\n"
+      objectReference: {fileID: 0}
     - target: {fileID: 6099895145282416950, guid: 5399bf4cc32aeae429408b0b37570bd1,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -5625,11 +5633,11 @@ AudioSource:
     - serializedVersion: 3
       time: 1
       value: 0
-      inSlope: -0.38501182
-      outSlope: -0.38501182
+      inSlope: -0.7921296
+      outSlope: -0.7921296
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0.19142747
+      inWeight: 0.45762718
       outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
@@ -6715,7 +6723,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 438449955}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.04}
+  m_LocalPosition: {x: 0, y: 0, z: 4.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6724,7 +6732,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -41.95, y: 108.06}
+  m_AnchoredPosition: {x: -42, y: 104.5}
   m_SizeDelta: {x: 486.64, y: 15.67}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &438449957
@@ -7686,7 +7694,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 503126717}
   m_LocalRotation: {x: 0.802934, y: -0.46543315, z: -0.21684612, w: 0.30273214}
-  m_LocalPosition: {x: -0.49, y: 7.33, z: 3.78}
+  m_LocalPosition: {x: 0.262, y: 4.46, z: 3.64}
   m_LocalScale: {x: 0.4951797, y: 0.6254265, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7727,8 +7735,8 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 0.99308115, b: 0.9198113, a: 1}
   m_Intensity: 50
-  m_Range: 51.1
-  m_SpotAngle: 112.01594
+  m_Range: 20
+  m_SpotAngle: 179
   m_InnerSpotAngle: 64.62204
   m_CookieSize: 10
   m_Shadows:
@@ -8480,6 +8488,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 171437475}
     m_Modifications:
+    - target: {fileID: 1570839417048903994, guid: 6a283d0c86635f340a38a71cf273504b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 1570839417048903994, guid: 6a283d0c86635f340a38a71cf273504b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 1570839417048903994, guid: 6a283d0c86635f340a38a71cf273504b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.191
+      objectReference: {fileID: 0}
     - target: {fileID: 1570839417476718653, guid: 6a283d0c86635f340a38a71cf273504b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8489,6 +8512,36 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 4.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1570839418317145197, guid: 6a283d0c86635f340a38a71cf273504b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.645
+      objectReference: {fileID: 0}
+    - target: {fileID: 1570839418317145197, guid: 6a283d0c86635f340a38a71cf273504b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 1570839418317145197, guid: 6a283d0c86635f340a38a71cf273504b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 1570839418970881097, guid: 6a283d0c86635f340a38a71cf273504b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.605
+      objectReference: {fileID: 0}
+    - target: {fileID: 1570839418970881097, guid: 6a283d0c86635f340a38a71cf273504b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.991
+      objectReference: {fileID: 0}
+    - target: {fileID: 1570839418970881097, guid: 6a283d0c86635f340a38a71cf273504b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.971
       objectReference: {fileID: 0}
     - target: {fileID: 2999110345204876026, guid: 6a283d0c86635f340a38a71cf273504b,
         type: 3}
@@ -8983,7 +9036,7 @@ PrefabInstance:
 
 
 
-        Inv.-Nr.: 030007654001'
+'
       objectReference: {fileID: 0}
     - target: {fileID: 4679717279807754162, guid: bf187d9863e81e047a23e83842a0b207,
         type: 3}
@@ -9940,7 +9993,7 @@ Transform:
   - {fileID: 424031101}
   - {fileID: 1032440213}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &629626430
 PrefabInstance:
@@ -10788,7 +10841,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 754108435}
   m_LocalRotation: {x: 0.8280028, y: 0.2760732, z: 0.19890732, w: 0.44568032}
-  m_LocalPosition: {x: 0.95, y: 6.22, z: 3.25}
+  m_LocalPosition: {x: 0.94, y: 6.05, z: 4.13}
   m_LocalScale: {x: 0.4951797, y: 0.6254265, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10830,7 +10883,7 @@ Light:
   m_Color: {r: 1, g: 0.99308115, b: 0.9198113, a: 1}
   m_Intensity: 50
   m_Range: 20
-  m_SpotAngle: 179
+  m_SpotAngle: 139.55933
   m_InnerSpotAngle: 67.435936
   m_CookieSize: 10
   m_Shadows:
@@ -11518,7 +11571,7 @@ PrefabInstance:
       value: "Kienspan\n\nKiensp\xE4ne sind harz-haltige Holzstreifen, die man im
         fr\xFChen Bergbau als Lichtquelle nutzte. Hier sind welche in Salz-stein
         eingeschlossen. Die fr\xFChsten Belege dieser Ge-leuchte stammen aus dem
-        Salzbergbau in Hallstatt.\n\nInv.-Nr.: 030007983001"
+        Salzbergbau in Hallstatt.\n\n"
       objectReference: {fileID: 0}
     - target: {fileID: 862875567, guid: 07744e3b87d9c3f4bb38d3d55a6fddeb, type: 3}
       propertyPath: m_Radius
@@ -12139,7 +12192,7 @@ PrefabInstance:
       value: "Kerzenhalter\n\nDieser besteht aus einem h\xF6lzernen, gedrechselten
         Fu\xDF, in den f\xFCnf gedrehte d\xFCnne Eisen-stangen eingelassen sind. 
         Die Stangen-konstruktion dient als F\xFChrung f\xFCr die h\xF6hen-verstellbare
-        Kerze.\n\nInv.-Nr.: 030003697000"
+        Kerze.\n\n"
       objectReference: {fileID: 0}
     - target: {fileID: 5051453353570337091, guid: 4c1bd955e1b3bd640b84309c407c71b2,
         type: 3}
@@ -12385,7 +12438,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &906651599
 PrefabInstance:
@@ -13286,6 +13339,14 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: glocke_small Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2279867633005595007, guid: ba4958dbae555db449a969f404be8b55,
+        type: 3}
+      propertyPath: m_text
+      value: "Schachtglocke\n\nDiese Schachtglocke wurde in der 2. H\xE4lfte des
+        20. Jahrhunderts genutzt. Festgelegte Schlagzahlen gaben ein Signal an: \nein
+        Schlag - Stoppen \nzwei Schl\xE4ge - Aufw\xE4rts \ndrei Schl\xE4ge - H\xE4ngen
+        \n\n"
       objectReference: {fileID: 0}
     - target: {fileID: 4102501057799548278, guid: ba4958dbae555db449a969f404be8b55,
         type: 3}
@@ -14856,7 +14917,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1003606526}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 4.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14865,7 +14926,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -49.88, y: 107.4}
+  m_AnchoredPosition: {x: -49.9, y: 105.9}
   m_SizeDelta: {x: 399.49, y: 17}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1003606528
@@ -14932,7 +14993,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1019083332 stripped
 GameObject:
@@ -15118,7 +15179,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1029600511
 MonoBehaviour:
@@ -15213,11 +15274,11 @@ AudioSource:
     - serializedVersion: 3
       time: 1
       value: 0
-      inSlope: -0.38501182
-      outSlope: -0.38501182
+      inSlope: -0.9833331
+      outSlope: -0.9833331
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0.19142747
+      inWeight: 0.15254241
       outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
@@ -15767,7 +15828,7 @@ PrefabInstance:
       propertyPath: m_text
       value: "Stahlm\xFChle\n\nDie Stahlm\xFChle ist der erste Versuch, eine feuerfeste
         Lampe herzustellen. Dieses Exemplar ist eine nicht funktionsf\xE4hige Nach-bildung
-        von Speddings \"Stahlm\xFChle\" aus den 1770er Jahren.\n\nInv.-Nr.: 030001404000"
+        von Speddings \"Stahlm\xFChle\" aus den 1770er Jahren.\n\n"
       objectReference: {fileID: 0}
     - target: {fileID: 1263071357, guid: 8dd35bfe3554bc74e9b56cd75f3cf576, type: 3}
       propertyPath: m_IsActive
@@ -16299,7 +16360,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Acetylen Handllampe
+  m_text: 'Acetylen Handlampe
 
 '
   m_isRightToLeft: 0
@@ -16826,7 +16887,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -77.08, y: 30}
+  m_AnchoredPosition: {x: -77.08, y: 24.7}
   m_SizeDelta: {x: 99.8, y: 25.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1155196123
@@ -18168,6 +18229,13 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2721191599916980931, guid: 16325703736c0114cb14fe6a38defef6,
+        type: 3}
+      propertyPath: m_text
+      value: "Grubenfahrrad\n\nGrubenfahrr\xE4der er-leichterten die Fort-bewegung
+        der Bergleute und den Transport auf den Gleisen \xFCber oft weite Strecken.
+        Dieses Grubenfahrrad hat zwei Sitze.\n\n"
+      objectReference: {fileID: 0}
     - target: {fileID: 3595678009657002941, guid: 16325703736c0114cb14fe6a38defef6,
         type: 3}
       propertyPath: m_RootOrder
@@ -18619,6 +18687,12 @@ PrefabInstance:
     - target: {fileID: 809457904, guid: 0d85407e76bb27042a1a9276301794d8, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -19
+      objectReference: {fileID: 0}
+    - target: {fileID: 809457905, guid: 0d85407e76bb27042a1a9276301794d8, type: 3}
+      propertyPath: m_text
+      value: "Bergzwerg\n\nDer Zwerg ist eine im Bergbaukontext recht h\xE4ufig zu
+        findende mythische Figur. Diese silberne Figur ist mit Schmucksteinen und
+        Perlmutt besetzt.\n\n"
       objectReference: {fileID: 0}
     - target: {fileID: 1004331960, guid: 0d85407e76bb27042a1a9276301794d8, type: 3}
       propertyPath: m_SizeDelta.y
@@ -19428,6 +19502,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 1.529007
       objectReference: {fileID: 0}
+    - target: {fileID: 911124905, guid: d9ad5bb9a16785642972b196c8b7057f, type: 3}
+      propertyPath: m_text
+      value: "Fotometer\n\nEs handelt sich um ein Ger\xE4t zum Messen der Lichtst\xE4rke
+        von Kopflampen. Die Lichtst\xE4rke wird angezeigt in \"Mean spherical candle
+        power\". \n\n\n"
+      objectReference: {fileID: 0}
     - target: {fileID: 1814803237, guid: d9ad5bb9a16785642972b196c8b7057f, type: 3}
       propertyPath: m_Radius
       value: 2570.2449
@@ -19766,7 +19846,7 @@ PrefabInstance:
       propertyPath: m_text
       value: "Amerikanische Kopfschelle\r\n\r\nDiese Grubenlampe stammt aus der Region
         Nordamerika. Der Lampentopf ist aus Wei\xDFblech gefertigt. Der Deckel l\xE4sst
-        sich zur Seite klappen. \n\nInv.-Nr.: 031401578000\n"
+        sich zur Seite klappen. \n\n\n"
       objectReference: {fileID: 0}
     - target: {fileID: 4157212040848021644, guid: 7a20ba8968fb04e4ca7f0c2cedcb2823,
         type: 3}
@@ -20035,7 +20115,7 @@ MonoBehaviour:
       localScale: {x: 0, y: 0, z: 0}
     colorData:
     - m_propertyPath: color
-      m_value: {r: 0.8392157, g: 0.70980394, b: 0.43137255, a: 1}
+      m_value: {r: 0.7176471, g: 0.58431375, b: 0.29411766, a: 1}
       m_component: {fileID: 1372954342}
     floatData: []
     events:
@@ -20080,7 +20160,7 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    time: 0.8
+    time: 0.7
     animate: 16
     data:
       localPos: {x: 0, y: 0, z: 0}
@@ -20861,7 +20941,7 @@ AudioSource:
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 135
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 6
@@ -20875,7 +20955,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0.1
+      value: 0.2
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -21739,6 +21819,7 @@ Transform:
   - {fileID: 537557221}
   - {fileID: 1556480922}
   - {fileID: 454619069}
+  - {fileID: 1820974216}
   m_Father: {fileID: 171437475}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -22083,7 +22164,7 @@ PrefabInstance:
     - target: {fileID: 2016458533146497595, guid: 1509996008c201245878d3455131fb2a,
         type: 3}
       propertyPath: m_Volume
-      value: 0.5
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 3044160829279787689, guid: 1509996008c201245878d3455131fb2a,
         type: 3}
@@ -23037,8 +23118,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_text
       value: "Geschlossene Froschlampe \n\r\nEin hartgel\xF6teter Lampen-topf, dessen
-        Form an einen Frosch erinnert. Diese Lampe hat einen aufgel\xF6teten Schieberverschlu\xDF.\n\n\nInv.-Nr.:
-        030002681008"
+        Form an einen Frosch erinnert. Diese Lampe hat einen aufgel\xF6teten Schieberverschlu\xDF.\n\n\n"
       objectReference: {fileID: 0}
     - target: {fileID: 6408197172788926628, guid: 39a4b215d0edffe42a31dd1fd410e4f1,
         type: 3}
@@ -23673,18 +23753,7 @@ PrefabInstance:
     - target: {fileID: 2402727813475579677, guid: c692e90187def494e9118e084eaf282a,
         type: 3}
       propertyPath: m_text
-      value: '
-
-
-        Start
-
-        Tour
-
-
-
-
-
-        >'
+      value: "\n\nStart\nTour\n\n\n\n\n>\n\n\nGl\xFCck auf!"
       objectReference: {fileID: 0}
     - target: {fileID: 2402727813475579677, guid: c692e90187def494e9118e084eaf282a,
         type: 3}
@@ -24893,7 +24962,7 @@ PrefabInstance:
       propertyPath: m_text
       value: "Kienspanhalter\r\n\r\nBesteht aus geschmiedeten Eisenteilten, die zu-einander
         beweglich sind. Mit dem gefederten Griff und der zangenf\xF6rmigen Halterung,
-        lassen sich die Kiensp\xE4ne gut trans-portieren.\n\n\nInv.-Nr.: 031401142000"
+        lassen sich die Kiensp\xE4ne gut trans-portieren.\n\n\n"
       objectReference: {fileID: 0}
     - target: {fileID: 3531912661818011412, guid: ae7ea578cbdee6f4abbf63ce473c962b,
         type: 3}
@@ -27141,7 +27210,7 @@ MonoBehaviour:
       localScale: {x: 0, y: 0, z: 0}
     colorData:
     - m_propertyPath: color
-      m_value: {r: 0.8392157, g: 0.70980394, b: 0.43137255, a: 1}
+      m_value: {r: 0.7169812, g: 0.5834817, b: 0.29423285, a: 1}
       m_component: {fileID: 1790243273}
     floatData: []
     events:
@@ -27186,7 +27255,7 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    time: 0.8
+    time: 0.7
     animate: 16
     data:
       localPos: {x: 0, y: 0, z: 0}
@@ -27333,8 +27402,7 @@ PrefabInstance:
         wurde um 1500 gefertigt. Typisch ist der Turm mit drei Fenstern (Dreifaltigkeit).
 
 
-        Inv.-Nr.:
-        033301661001'
+'
       objectReference: {fileID: 0}
     - target: {fileID: 1506430262, guid: e0ecd35399d2ef8408a5b6fe3de916de, type: 3}
       propertyPath: m_IsActive
@@ -27670,11 +27738,11 @@ AudioSource:
     - serializedVersion: 3
       time: 1
       value: 0
-      inSlope: -0.38501182
-      outSlope: -0.38501182
+      inSlope: -0.85549974
+      outSlope: -0.85549974
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0.19142747
+      inWeight: 0.21186447
       outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
@@ -27838,7 +27906,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1508871423}
     m_Modifications:
     - target: {fileID: 5862272409342011493, guid: 260e7bd184c429f4aaa98f0728b4ab41,
         type: 3}
@@ -27848,7 +27916,7 @@ PrefabInstance:
     - target: {fileID: 6490013750296785631, guid: 260e7bd184c429f4aaa98f0728b4ab41,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 6490013750296785631, guid: 260e7bd184c429f4aaa98f0728b4ab41,
         type: 3}
@@ -27905,6 +27973,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 260e7bd184c429f4aaa98f0728b4ab41, type: 3}
+--- !u!4 &1820974216 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6490013750296785631, guid: 260e7bd184c429f4aaa98f0728b4ab41,
+    type: 3}
+  m_PrefabInstance: {fileID: 1820974215}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1820994248 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6319544683212058082, guid: 4c1bd955e1b3bd640b84309c407c71b2,
@@ -29525,7 +29599,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1935522577
 GameObject:
@@ -29656,8 +29730,7 @@ PrefabInstance:
       propertyPath: m_text
       value: "Z\xFCndmaschine\n\nEs handelt sich um einen magnet-elektrischen Sprengstoff-Z\xFCnder,
         der \xFCber die Zahnstange ausgel\xF6st wurde. Diese Z\xFCndmaschine wurde
-        1928 von der Z\xFCnderwerke Ernst Br\xFCn GmbH in Krefeld her-gestellt.\n\nInv.-Nr.:
-        030110121000 "
+        1928 von der Z\xFCnderwerke Ernst Br\xFCn GmbH in Krefeld her-gestellt.\n\n"
       objectReference: {fileID: 0}
     - target: {fileID: 403227422, guid: 1ab51735bd9d30146b4dff916d92eade, type: 3}
       propertyPath: m_fontSize
@@ -30572,6 +30645,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 13.256
       objectReference: {fileID: 0}
+    - target: {fileID: 7722083018472749975, guid: 02244f1eb24ccca4a8c57367a762405c,
+        type: 3}
+      propertyPath: m_text
+      value: "Pistol-Grip Kerzenhalter\r\n\r\nDurchgehend aus einem Vierkantstab
+        geschmiedeter Kerzenhalter. Die Kerze steht in einer fingerhut-\xE4hnlichen
+        Klemmhalterung. Die Form des candlesticks \xE4hnelt einer Pistole.\r\n\n\n"
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31252,7 +31332,7 @@ Transform:
   - {fileID: 603850677}
   - {fileID: 168819269}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2044329397
 PrefabInstance:
@@ -31593,17 +31673,17 @@ PrefabInstance:
     - target: {fileID: 8650570925751458623, guid: b3a062e1a0e9c88499b0ed86f5063ac3,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.23
+      value: -0.465
       objectReference: {fileID: 0}
     - target: {fileID: 8650570925751458623, guid: b3a062e1a0e9c88499b0ed86f5063ac3,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.27
+      value: 5.1
       objectReference: {fileID: 0}
     - target: {fileID: 8650570925751458623, guid: b3a062e1a0e9c88499b0ed86f5063ac3,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.28
+      value: 1.6
       objectReference: {fileID: 0}
     - target: {fileID: 8650570925751458623, guid: b3a062e1a0e9c88499b0ed86f5063ac3,
         type: 3}
@@ -31939,8 +32019,7 @@ PrefabInstance:
       propertyPath: m_text
       value: "Blitzer Grubenlampe\r\n\r\nEs handelt sich um eine spezielle, aber
         \xE4u\xDFerst weit verbreitetete Form, den so genannten \"Blitzer\". Die
-        Gruben-lampe aus verzinktem Stahlblech wurde etwa in den 1950er-Jahren gefertigt.\n\nInv.-Nr.:
-        030013982001\n"
+        Gruben-lampe aus verzinktem Stahlblech wurde etwa in den 1950er-Jahren gefertigt.\n\n\n"
       objectReference: {fileID: 0}
     - target: {fileID: 2860808838959045796, guid: ec84e08f401ea644b9656443df495dc5,
         type: 3}
